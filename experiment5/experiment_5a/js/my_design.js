@@ -4,25 +4,45 @@
 function getInspirations() {
   return [
     {
-      name: "Lunch atop a Skyscraper", 
+      name: "Lunch atop a Skyscraper",
       assetUrl: "https://cdn.glitch.global/3abd0223-86fb-43ce-a00a-fde12615bcd5/lunch-on-a-skyscraper.jpg?v=1714798266994",
       credit: "Lunch atop a Skyscraper, Charles Clyde Ebbets, 1932"
     },
     {
-      name: "Train Wreck", 
+      name: "Train Wreck",
       assetUrl: "https://cdn.glitch.global/3abd0223-86fb-43ce-a00a-fde12615bcd5/train-wreck.jpg?v=1714798264965",
       credit: "Train Wreck At Monteparnasse, Levy & fils, 1895"
     },
     {
-      name: "Migrant mother", 
+      name: "Migrant mother",
       assetUrl: "https://cdn.glitch.global/3abd0223-86fb-43ce-a00a-fde12615bcd5/migrant-mother.jpg?v=1714778906791",
       credit: "Migrant Mother near Nipomo, California, Dorothea Lange, 1936"
     },
     {
-      name: "Disaster Girl", 
+      name: "Disaster Girl",
       assetUrl: "https://cdn.glitch.global/3abd0223-86fb-43ce-a00a-fde12615bcd5/girl-with-fire.jpg?v=1714778905663",
       credit: "Four-year-old Zoë Roth, 2005"
     },
+    {
+      name: "My Cat 1",
+      assetUrl: "https://cdn.glitch.global/75f4b9ca-6c85-4e47-83df-feea14331a7a/WhatsApp%20Image%202025-05-08%20at%208.58.24%20PM.jpeg?v=1746773527594",
+      credit: "Taken by me / Mr. Gölge"
+    },
+    {
+      name: "My Cat 2",
+      assetUrl: "https://cdn.glitch.global/75f4b9ca-6c85-4e47-83df-feea14331a7a/WhatsApp%20Image%202025-05-08%20at%208.58.22%20PM.jpeg?v=1746773538045",
+      credit: "Taken by me / Mr. Gölge"
+    },
+    {
+      name: "AI Landscape Art",
+      assetUrl: "https://cdn.glitch.global/75f4b9ca-6c85-4e47-83df-feea14331a7a/WhatsApp%20Image%202025-05-08%20at%208.50.03%20PM.jpeg?v=1746773531522",
+      credit: "AI image via Adobe Stock"
+    },
+    {
+      name: "Game Screenshot: Prey",
+      assetUrl: "https://cdn.glitch.global/75f4b9ca-6c85-4e47-83df-feea14331a7a/WhatsApp%20Image%202025-05-08%20at%208.50.04%20PM.jpeg?v=1746773533802",
+      credit: "Steam (Prey © Arkane Studios)"
+    }
   ];
 }
 
