@@ -188,3 +188,4 @@ function drawTile([world_x, world_y], [camera_x, camera_y]) {
   }
   translate(-(0 - screen_x), -screen_y);
 }
+
